@@ -4,8 +4,8 @@ A collection of fun and educational C programming projects. These projects are g
 
 ## 📁 Projects Included
 
-| Project                          | Description                                              | Folder                          |
-| -------------------------------- | -------------------------------------------------------- | ------------------------------- |
+| Project                          | Description                                              | Folder                                            |
+| -------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
 | **Compound Interest Calculator** | Calculate compound interest with customizable parameters | `C/Casual_Projects/Compound-Interest-Calculator/` |
 | **Digital Clock**                | A real-time digital clock display in the console         | `C/Casual_Projects/Digital-Clock/`                |
 | **Number Guessing Game**         | Test your luck by guessing the randomly generated number | `C/Casual_Projects/Number-Guessing-Game/`         |
@@ -106,7 +106,6 @@ Feel free to use these projects for learning and personal use!
 
 ## Author
 
-Made by ![favicon](favicon-96x96.png) [toxicbishop](https://github.com/toxicbishop)
+Made by [toxicbishop](https://github.com/toxicbishop) ![favicon](favicon-96x96.png)
 
 ⭐ **Star this repo if you found it helpful!**
----
