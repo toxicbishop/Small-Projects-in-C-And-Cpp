@@ -14,6 +14,7 @@ A collection of fun and educational C programming projects. These projects are g
 | **Quiz Game**                    | Test your knowledge with an interactive quiz             | `C/Quiz-Game/`                    |
 | **Circle Program**               | Calculate circle properties (area, circumference, etc.)  | `C/Circle-Program/`               |
 | **Tic-Tac-Toe**                  | Classic game with PvP and smart AI opponent              | `C/Tic-Tac-Toe/`                  |
+| **Caesar Cipher**                | File encryption/decryption using Caesar Cipher algorithm | `C/Caesar-Cipher/`                |
 
 ## 📂 Project Structure
 
@@ -28,7 +29,8 @@ A collection of fun and educational C programming projects. These projects are g
 │   ├── 📁 Banking-System/
 │   ├── 📁 Quiz-Game/
 │   ├── 📁 Circle-Program/
-│   └── 📁 Tic-Tac-Toe/
+│   ├── 📁 Tic-Tac-Toe/
+│   └── 📁 Caesar-Cipher/
 │
 ├── 📁 C++
 │   ├── 📁 Compound-Interest-Calculator/
@@ -38,7 +40,8 @@ A collection of fun and educational C programming projects. These projects are g
 │   ├── 📁 Banking-System/
 │   ├── 📁 Quiz-Game/
 │   ├── 📁 Circle-Program/
-│   └── 📁 Tic-Tac-Toe/
+│   ├── 📁 Tic-Tac-Toe/
+│   └── 📁 Caesar-Cipher/
 ```
 
 ## 🛠️ How to Compile and Run
