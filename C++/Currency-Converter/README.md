@@ -24,7 +24,7 @@ A comprehensive currency converter with Object-Oriented Programming, supporting 
 ## 🌍 Supported Currencies
 
 | Code | Currency | Symbol | Region |
-|------|----------|--------|--------|
+| ------ | ---------- | -------- | -------- |
 | USD | US Dollar | $ | United States |
 | EUR | Euro | € | European Union |
 | GBP | British Pound | £ | United Kingdom |
@@ -58,7 +58,7 @@ currency-converter.exe      # Windows
 
 ### 3. Enhanced Menu Options
 
-```
+```text
   1. 💰 Convert Currency
   2. ⚡ Quick Conversion (USD Base)
   3. 🔄 Reverse Conversion Calculator
@@ -74,7 +74,7 @@ currency-converter.exe      # Windows
 
 **Unique to C++ version!** Calculate how much you need in one currency to get a specific amount in another.
 
-```
+```text
 Scenario: You want exactly 100 EUR. How much USD do you need?
 
 Enter source currency: USD
@@ -91,7 +91,7 @@ REVERSE CALCULATION
 
 Quick view of the most commonly traded currency pairs:
 
-```
+```text
 🌍 POPULAR CURRENCY PAIRS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -111,7 +111,7 @@ Quick view of the most commonly traded currency pairs:
 
 ### Example 1: Standard Conversion
 
-```
+```text
 Enter source currency code: GBP
 Enter target currency code: JPY
 Enter amount: 50
@@ -127,7 +127,7 @@ CONVERSION RESULT
 
 ### Example 2: Reverse Calculation
 
-```
+```text
 You're traveling and need exactly 50,000 JPY in Japan.
 How much GBP should you exchange?
 
@@ -141,7 +141,7 @@ You need: 264.13 GBP
 
 ### Example 3: Quick USD Snapshot
 
-```
+```text
 Enter USD amount: $1000
 
 $1000.00 USD converts to:
@@ -272,7 +272,7 @@ class CurrencyConverter {
 ## Comparison: C vs C++
 
 | Feature | C Version | C++ Version |
-|---------|-----------|-------------|
+| --------- | ----------- | ------------- |
 | Menu Options | 5 | 7 |
 | Reverse Calc | ❌ | ✅ |
 | Popular Pairs | ❌ | ✅ |

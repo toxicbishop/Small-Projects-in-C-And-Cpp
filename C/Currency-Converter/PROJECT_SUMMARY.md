@@ -7,7 +7,7 @@ Both C and C++ versions of the Currency Converter have been successfully created
 ### 📊 Project Stats
 
 | Metric | C Version | C++ Version |
-|--------|-----------|-------------|
+| -------- | ----------- | ------------- |
 | **Lines of Code** | ~450 | ~480 |
 | **Menu Options** | 5 | 7 |
 | **Currencies Supported** | 15 | 15 |
@@ -66,7 +66,7 @@ Calculate how much you need in Currency A to get desired amount in Currency B
 
 **Example:**
 
-```
+```text
 Want: 100 EUR
 Need: 108 USD
 ```
@@ -87,7 +87,7 @@ Quick view of most traded pairs:
 
 ### C Version Structure
 
-```
+```text
 - Currency struct (code, name, symbol, rate)
 - initializeCurrencies()
 - convertCurrency()
@@ -138,7 +138,7 @@ class CurrencyConverter {
 
 ## 🚀 Files Created
 
-```
+```text
 C/Currency-Converter/
 ├── currency-converter.c
 ├── currency-converter.exe
@@ -182,7 +182,7 @@ cd C:\Code\C&C++\C++\Currency-Converter
 
 ## 🎨 Sample Output
 
-```
+```text
 ╔═══════════════════════════════════════════════╗
 ║                                               ║
 ║       💱 CURRENCY CONVERTER MENU 💱          ║
@@ -198,7 +198,7 @@ cd C:\Code\C&C++\C++\Currency-Converter
 
 **Conversion Example:**
 
-```
+```text
 100.00 USD (US Dollar)
          ↓
 92.59 EUR (Euro)
@@ -211,7 +211,7 @@ Exchange Rate: 1 USD = 0.925926 EUR
 ## 📊 Comparison: C vs C++
 
 | Feature | C | C++ |
-|---------|---|-----|
+| --------- | --- | ----- |
 | Conversion | ✅ | ✅ |
 | Quick USD | ✅ | ✅ |
 | Currency List | ✅ | ✅ |
@@ -254,6 +254,6 @@ The Currency Converter is ready to use and demonstrates:
 - International standards
 - Code organization
 
-**Total Implementation Quality: ⭐⭐⭐⭐⭐**
+### Total Implementation Quality: ⭐⭐⭐⭐⭐
 
 Ready for the next project! 🚀

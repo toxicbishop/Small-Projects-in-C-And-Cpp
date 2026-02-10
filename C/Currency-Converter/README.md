@@ -14,7 +14,7 @@ A comprehensive currency converter supporting 15 major world currencies with rea
 ## 🌍 Supported Currencies
 
 | Code | Currency | Symbol | Region |
-|------|----------|--------|--------|
+| ------ | ---------- | -------- | -------- |
 | USD | US Dollar | $ | United States |
 | EUR | Euro | € | European Union |
 | GBP | British Pound | £ | United Kingdom |
@@ -48,7 +48,7 @@ currency-converter.exe      # Windows
 
 ### 3. Menu Options
 
-```
+```text
   1. 💰 Convert Currency
   2. ⚡ Quick Conversion (USD Base)
   3. 📋 View All Currencies
@@ -60,7 +60,7 @@ currency-converter.exe      # Windows
 
 ### Example 1: Convert USD to EUR
 
-```
+```text
 Enter source currency code: USD
 Enter target currency code: EUR
 Enter amount: 100
@@ -76,7 +76,7 @@ CONVERSION RESULT
 
 ### Example 2: Quick USD Conversion
 
-```
+```text
 Enter USD amount: $50
 
 $50.00 USD converts to:
@@ -92,7 +92,7 @@ $50.00 USD converts to:
 
 ### Example 3: Convert INR to GBP
 
-```
+```text
 Enter source currency code: INR
 Enter target currency code: GBP
 Enter amount: 10000
